@@ -1,0 +1,13 @@
+// app global css in SCSS form
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+.bg-body {
+  background-color: #571d38;
+}
+
+.border-rounded {
+  border-radius: 25px;
+}
